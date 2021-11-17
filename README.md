@@ -31,4 +31,4 @@ Github - [Nancy-codergirl])
 ### License
 This is an opensource software therefore the license is [MIT](https://choosealicense.com/licenses/mit/)
 <br>
-Copyright (c) 2018 **Legacy Softwares**
+Copyright (c) 2021 **Nancy Muriithi**
